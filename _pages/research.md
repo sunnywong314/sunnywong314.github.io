@@ -15,7 +15,7 @@ feature_row:
     url: "#test-link"
   - image_path: /assets/SNcompanion.png
     title: "Hypervelocity Stars"
-    excerpt: "Travelling at 1,000 - 2,000 km/s, these are the fastest stars in the Galaxy and  the surviving white dwarf companion stars after a type Ia supernova, they show surface metal pollution and inflated surfaces. I combine 3D hydrodynamical models and 1D stellar evolution models to understand how white dwarf companion stars are shock-heated by supernova ejecta."
+    excerpt: "Travelling at 1,000 - 2,000 km/s, these are the fastest stars in the Galaxy. They are believed to be the surviving white dwarf companion stars after a type Ia supernova, and show surface metal pollution and inflated radii. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
 ---
 
 # Research
