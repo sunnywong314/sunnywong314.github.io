@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/SNcompanion.png
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernovae"
-    excerpt: "I use binary evolution models to understand the progenitor systems of type Ia/Iax supernovae. Our models explore the phase space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
+    excerpt: "I use binary evolution models to understand the progenitor systems of type Ia/Iax supernovae. Our models predict the phase space and observable properties of **helium star-white dwarf binaries** leading to Chandrasekhar mass explosions, and of **double white dwarf binaries** leading to sub-Chandrasekhar mass explosions."
   - image_path: /assets/SNcompanion.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
