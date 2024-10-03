@@ -3,18 +3,18 @@ permalink: /research/
 title: "Research"
 layout: splash
 feature_row:
-  - image_path: /assets/SNcompanion.png
+  - image_path: /assets/images/SNcompanion.png
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
     excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
     url: /research/
-  - image_path: /assets/SNcompanion.png
+  - image_path: /assets/images/SNcompanion.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "AM CVn Binaries"
     excerpt: "AM CVn binaries are gravitational sources detectable by space-based missions like LISA. We model the thermal evolution of both white dwarfs in AM CVn binaries, and predict their observable properties for comparison with eclipsing systems discovered from ZTF. "
     url: /research/
-  - image_path: /assets/SNcompanion.png
+  - image_path: /assets/images/SNcompanion.png
     title: "Hypervelocity Stars"
     excerpt: "Their high velocities (1000-2000 km/s), metal-rich surfaces, and inflated radii support the notion that they are the surviving white dwarf companion stars after a type Ia supernova. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
     url: /research/
