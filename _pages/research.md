@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+layout: splash
 feature_row:
   - image_path: /assets/SNcompanion.png
     alt: "placeholder image 1"
