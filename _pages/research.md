@@ -17,10 +17,19 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-This is my research page.
+# Research
 
-# placeholder
+My research broadly asks the questions, how are binary systems with white dwarfs formed, and how these white dwarfs interact with their companion stars. The diverse range of outcomes is intriguing -- some explode as type Ia supernovae, some form gravitational wave sources, some merge as a giant star, and some form the fastest stars in the Galaxy. With the advent of all-sky surveys like the Zwicky Transient Factory and accurate astrometry from the Gaia mission, we have only begun to probe these stellar enigma in recent years. My goal is to aid our theoretical understanding of these objects through stellar modeling and hydrodynamical simulations. 
 
+## Type Ia Supernovae
+
+Type Ia supernovae are some of the most energetic explosions in the Universe. They are standardizable candles allowing us to probe distances to faraway galaxies, which led to the discovery that the expansion of the Universe is accelerating. We believe that type Ia supernovae come from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary compaion is. 
+
+## AM CVn Binaries
+
+AM CVn binaries are a class of ultracompact binaries marked by hydrogen-deficient spectra, and orbital periods below about an hour, down to 5 minutes. 
+
+## R Corona Borealis Stars
 
 
 
