@@ -10,12 +10,12 @@ feature_row:
   - image_path: /assets/SNcompanion.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "AM CVn Binaries"
+    excerpt: "AM CVn binaries are gravitational sources detectable by space-based missions like LISA. Our models predict the observable electromagnetic properties of both white dwarfs in AM CVn binaries."
     url: "#test-link"
   - image_path: /assets/SNcompanion.png
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Hypervelocity Stars"
+    excerpt: "Travelling at 1,000 - 2,000 km/s, these are the fastest stars in the Galaxy and  the surviving white dwarf companion stars after a type Ia supernova, they show surface metal pollution and inflated surfaces. I combine 3D hydrodynamical models and 1D stellar evolution models to understand how white dwarf companion stars are shock-heated by supernova ejecta."
 ---
 
 # Research
