@@ -6,7 +6,8 @@ feature_row:
   - image_path: /assets/SNcompanion.png
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
-    excerpt: "I use binary evolution models to understand the progenitor systems of type Ia/Iax supernovae. Our models predict the parameter space and observable properties of **helium star-white dwarf binaries** leading to Chandrasekhar mass explosions, and of **double white dwarf binaries** leading to sub-Chandrasekhar mass explosions."
+    excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
+    url: /research/
   - image_path: /assets/SNcompanion.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
@@ -16,7 +17,7 @@ feature_row:
   - image_path: /assets/SNcompanion.png
     title: "Hypervelocity Stars"
     excerpt: "Travelling at 1,000 - 2,000 km/s, these are the fastest stars in the Galaxy. They are believed to be the surviving white dwarf companion stars after a type Ia supernova, and show surface metal pollution and inflated radii. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
-    url: "#test-link"
+    url: /research/
 ---
 
 # Research
@@ -32,10 +33,6 @@ Type Ia supernovae are some of the most energetic explosions in the Universe. We
 ## AM CVn Binaries
 
 AM CVn binaries are a class of ultracompact binaries marked by hydrogen-deficient spectra, and orbital periods below about an hour, down to 5 minutes. 
-
-## R Corona Borealis Stars
-
-## Hypervelocity Stars
 
 
 
