@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 layout: splash
 feature_row:
-  - image_path: /assets/images/SNcompanion.png
+  - image_path: /assets/images/sn2011fe.jpg
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
     excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
