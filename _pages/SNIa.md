@@ -28,7 +28,7 @@ In the Chandrasekhar mass scenario, a carbon-oxygen white dwarf accretes materia
 
 In this paper, we investigate the parameter space of white dwarfs stably accreting from non-degenerate, 1-2 solar-mass helium star companions. Previous studies assumed that if the accreting white dwarf reaches Chandrasekhar mass, it will undergo core carbon ignition. We account for the possibility that an **off-center carbon ignition** could occur and convert the white dwarf into an **oxygen-neon white dwarf**. It could then undergo accretion-induced collapse and form a neutron star when reaching Chandrasekhar mass. 
 
-In a followup paper, we 
+In a followup paper, we predict the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that is subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. 
 
 ## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
 
