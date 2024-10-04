@@ -8,7 +8,13 @@ header:
   overlay_image: /assets/images/SNcompanion.png
 excerpt: >
   <br />
-  I combine 1D stellar evolution models and 3D hydrodynamical models to model how white dwarfs interact with companion stars. 
+  How are binary systems with white dwarfs formed? And how do these white dwarfs interact with their companion stars? <br />
+  <br />
+  The diverse range of outcomes is intriguing -- some explode as type Ia supernovae, some form gravitational wave sources, some merge as a giant star, and some form the fastest stars in the Galaxy. <br />
+  <br />
+  With the advent of large area surveys like the Zwicky Transient Factory and accurate astrometry from the Gaia mission, we have only begun to probe these stellar enigma in recent years. <br />
+  <br />
+  My goal is to aid our theoretical understanding of these objects through stellar modeling and hydrodynamical simulations. <br />
   <br />
 feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
