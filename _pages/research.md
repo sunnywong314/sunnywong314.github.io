@@ -8,8 +8,8 @@ header:
   overlay_image: /assets/images/SNcompanion.png
 excerpt: >
   <br />
-  <\large>
-  How are binary systems with white dwarfs formed? And how do these white dwarfs interact with their companion stars? <\large> <br />
+  <large>
+  How are binary systems with white dwarfs formed? And how do these white dwarfs interact with their companion stars? </large> <br />
   <br />
   The diverse range of outcomes is intriguing -- some explode as type Ia supernovae, some form gravitational wave sources, some merge as a giant star, and some form the fastest stars in the Galaxy. <br />
   <br />
