@@ -37,20 +37,17 @@ feature_row_HVS:
     url: /research/
 ---
 
-# Research
-
-My research broadly asks the questions, how are binary systems with white dwarfs formed, and how these white dwarfs interact with their companion stars. The diverse range of outcomes is intriguing -- some explode as type Ia supernovae, some form gravitational wave sources, some merge as a giant star, and some form the fastest stars in the Galaxy. With the advent of large area surveys like the Zwicky Transient Factory and accurate astrometry from the Gaia mission, we have only begun to probe these stellar enigma in recent years. My goal is to aid our theoretical understanding of these objects through stellar modeling and hydrodynamical simulations. 
-
-{% include feature_row id="feature_row_SNIa" type="left" %}
+{% include feature_row id="feature_row_HVS" type="left" %}
 
 {% include feature_row id="feature_row_AMCVN" type="right" %}
 
-{% include feature_row id="feature_row_HVS" type="left" %}
+{% include feature_row id="feature_row_SNIa" type="left" %}
 
 
-## AM CVn Binaries
 
-AM CVn binaries are a class of ultracompact binaries marked by hydrogen-deficient spectra, and orbital periods below about an hour, down to 5 minutes. 
+
+
+
 
 
 
