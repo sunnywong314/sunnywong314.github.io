@@ -15,13 +15,15 @@ feature_row_SNIa:
 
 ## Type Ia Supernovae
 
-Type Ia supernovae are some of the most energetic explosions in the Universe. We believe that type Ia supernovae come from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is. 
+Type Ia supernovae are some of the most energetic explosions in the Universe. They originate from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is. 
 
-## Helium Star Companions / Chandrasekhar Mass Scenario
+## Helium Star Companions (Chandrasekhar Mass Scenario)
 
-In the Chandrasekhar mass scenario, a white dwarf accretes material from a non-degenerate companion star and explodes via core carbon ignition when it reaches the Chandrasekhar mass. 
+In the Chandrasekhar mass scenario, a carbon-oxygen white dwarf accretes material from a non-degenerate companion star and explodes via core carbon ignition when it reaches the Chandrasekhar mass. 
 
-In this paper, we investigate the parameter space of white dwarfs accreting from non-degenerate helium star companions. 
+In this paper, we investigate the parameter space of white dwarfs accreting from non-degenerate, 1-2 solar-mass helium star companions. Previous studies assumed that if the accreting white dwarf reaches Chandrasekhar mass, it will undergo core carbon ignition. We account for the possibility that an **off-center carbon ignition** could occur and convert the white dwarf into an **oxygen-neon white dwarf**. It could then undergo accretion-induced collapse and form a neutron star when reaching Chandrasekhar mass. 
+
+## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
 
 
 
