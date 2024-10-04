@@ -4,7 +4,7 @@ title: "Research"
 layout: splash
 feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
-    image_caption: "Image courtesy of [Fulton/LCO/PTF]([https://unsplash.com/](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/))"
+    image_caption: "Image courtesy of [Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
     excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
