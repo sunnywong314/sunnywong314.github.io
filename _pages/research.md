@@ -36,6 +36,12 @@ feature_row_HVS:
     title: "Hypervelocity Stars"
     excerpt: "Their high velocities (1000-2000 km/s), metal-rich surfaces, and inflated radii support the notion that they are the surviving white dwarf companion stars after a type Ia supernova. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
     url: /research/
+feature_row_RCB:
+  - image_path: /assets/images/RCB.jpg
+    title: "R Corona Borealis Stars"
+    image_caption: "Image courtesy of [NOIRLab/AURA/NSF/P. Marenfeld](https://noirlab.edu/public/images/Corona-Borealis/)"
+    excerpt: "R Corona Borealis stars are a class of hydrogen-deficient, carbon-rich stars. They are believed to be merger products between a helium white dwarf and a carbon-oxygen white dwarf. They exhibit pulsation periods typically between 30 and 100 days. I use stellar models to investigate their pulsation properties. "
+    url: /research/
 ---
 
 {% include feature_row id="feature_row_HVS" type="left" %}
@@ -43,6 +49,8 @@ feature_row_HVS:
 {% include feature_row id="feature_row_AMCVN" type="right" %}
 
 {% include feature_row id="feature_row_SNIa" type="left" %}
+
+{% include feature_row id="feature_row_RCB" type="right" %}
 
 
 
