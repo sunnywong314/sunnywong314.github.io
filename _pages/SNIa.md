@@ -7,7 +7,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/sn2011fe.jpg
 excerpt: >
-  hello <br />
+  Type Ia supernovae originate from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion. Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is.  <br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.26.2">Latest release v4.26.2</a></small>
 feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
     image_caption: "Image courtesy of [BJ Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
