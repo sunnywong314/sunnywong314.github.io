@@ -4,17 +4,17 @@ title: "Research"
 layout: splash
 feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
-    image_caption: "Image courtesy of [Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
+    image_caption: "Image courtesy of [BJ Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
-    excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
+    excerpt: "I use binary evolution models to predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
     url: /research/
 feature_row_AMCVN:
-  - image_path: /assets/images/SNcompanion.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/AMCVN.png
+    image_caption: "Image courtesy of [University of Warwick/Mark Garlick](https://warwick.ac.uk/newsandevents/pressreleases/teardrop_star_reveals)"
     alt: "placeholder image 2"
     title: "AM CVn Binaries"
-    excerpt: "AM CVn binaries are gravitational sources detectable by space-based missions like LISA. We model the thermal evolution of both white dwarfs in AM CVn binaries, and predict their observable properties for comparison with eclipsing systems discovered from ZTF. "
+    excerpt: "AM CVn binaries are ultracompact binaries with orbital periods below about an hour, down to 5 minutes, and gravitational sources detectable by space-based missions like LISA. We model the thermal evolution of both white dwarfs in AM CVn binaries, and predict their observable properties for comparison with eclipsing systems discovered from ZTF. "
     url: /research/
 feature_row_HVS:
   - image_path: /assets/images/SNcompanion.png
