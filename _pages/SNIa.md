@@ -21,7 +21,7 @@ Type Ia supernovae are some of the most energetic explosions in the Universe. We
 
 In the Chandrasekhar mass scenario, a white dwarf accretes material from a non-degenerate companion star and explodes via core carbon ignition when it reaches the Chandrasekhar mass. 
 
-
+In this paper, we investigate the parameter space of white dwarfs accreting from non-degenerate helium star companions. 
 
 
 
