@@ -2,27 +2,24 @@
 permalink: /research/
 title: "Research"
 layout: splash
-feature_row:
+feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
+    image_caption: "Image courtesy of [Fulton/LCO/PTF]([https://unsplash.com/](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/))"
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
     excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
     url: /research/
+feature_row_AMCVN:
   - image_path: /assets/images/SNcompanion.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "AM CVn Binaries"
     excerpt: "AM CVn binaries are gravitational sources detectable by space-based missions like LISA. We model the thermal evolution of both white dwarfs in AM CVn binaries, and predict their observable properties for comparison with eclipsing systems discovered from ZTF. "
     url: /research/
+feature_row_HVS:
   - image_path: /assets/images/SNcompanion.png
     title: "Hypervelocity Stars"
     excerpt: "Their high velocities (1000-2000 km/s), metal-rich surfaces, and inflated radii support the notion that they are the surviving white dwarf companion stars after a type Ia supernova. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
-    url: /research/
-feature_row_1:
-  - image_path: /assets/images/sn2011fe.jpg
-    alt: "placeholder image 1"
-    title: "Type Ia/Iax Supernova Progenitors"
-    excerpt: "Our binary evolution models predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
     url: /research/
 ---
 
@@ -30,9 +27,12 @@ feature_row_1:
 
 My research broadly asks the questions, how are binary systems with white dwarfs formed, and how these white dwarfs interact with their companion stars. The diverse range of outcomes is intriguing -- some explode as type Ia supernovae, some form gravitational wave sources, some merge as a giant star, and some form the fastest stars in the Galaxy. With the advent of large area surveys like the Zwicky Transient Factory and accurate astrometry from the Gaia mission, we have only begun to probe these stellar enigma in recent years. My goal is to aid our theoretical understanding of these objects through stellar modeling and hydrodynamical simulations. 
 
-{% include feature_row id="feature_row_1" type="left" %}
+{% include feature_row id="feature_row_SNIa" type="left" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row_AMCVN" type="right" %}
+
+{% include feature_row id="feature_row_HVS" type="left" %}
+
 
 ## Type Ia Supernovae
 
