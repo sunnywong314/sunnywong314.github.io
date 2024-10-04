@@ -8,7 +8,7 @@ feature_row_SNIa:
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
     excerpt: "I use binary evolution models to predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
-    url: /research/
+    url: /SNIa/
 feature_row_AMCVN:
   - image_path: /assets/images/AMCVN.png
     image_caption: "Image courtesy of [University of Warwick/Mark Garlick](https://warwick.ac.uk/newsandevents/pressreleases/teardrop_star_reveals)"
