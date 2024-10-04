@@ -1,6 +1,6 @@
 ---
 permalink: /SNIa/
-title: "Research"
+title: "Type Ia/Iax Supernova Progenitors"
 layout: splash
 header:
   overlay_color: "#000"
