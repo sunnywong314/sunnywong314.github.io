@@ -15,7 +15,12 @@ feature_row_SNIa:
 
 ## Type Ia Supernovae
 
-Type Ia supernovae are some of the most energetic explosions in the Universe. We believe that type Ia supernovae come from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary compaion is. 
+Type Ia supernovae are some of the most energetic explosions in the Universe. We believe that type Ia supernovae come from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is. 
+
+## Helium Star Companions / Chandrasekhar Mass Scenario
+
+In the Chandrasekhar mass scenario, a white dwarf accretes material from a non-degenerate companion star and explodes via core carbon ignition when it reaches the Chandrasekhar mass. 
+
 
 
 
