@@ -6,7 +6,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/sn2011fe.jpg
-excerpt: "Bacon"
+excerpt: >
+  hello <br />
 feature_row_SNIa:
   - image_path: /assets/images/sn2011fe.jpg
     image_caption: "Image courtesy of [BJ Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
