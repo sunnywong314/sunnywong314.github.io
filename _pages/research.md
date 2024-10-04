@@ -10,7 +10,7 @@ feature_row_SNIa:
     excerpt: "I use binary evolution models to predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
     url: /SNIa/
 feature_row_AMCVN:
-  - image_path: /assets/images/AMCVN.png
+  - image_path: /assets/images/AMCVN.jpg
     image_caption: "Image courtesy of [University of Warwick/Mark Garlick](https://warwick.ac.uk/newsandevents/pressreleases/teardrop_star_reveals)"
     alt: "placeholder image 2"
     title: "AM CVn Binaries"
@@ -33,10 +33,6 @@ My research broadly asks the questions, how are binary systems with white dwarfs
 
 {% include feature_row id="feature_row_HVS" type="left" %}
 
-
-## Type Ia Supernovae
-
-Type Ia supernovae are some of the most energetic explosions in the Universe. We believe that type Ia supernovae come from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion (though binary interaction itself is also debated). Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary compaion is. 
 
 ## AM CVn Binaries
 
