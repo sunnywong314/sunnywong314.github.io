@@ -27,8 +27,14 @@ feature_row_HeWD:
   - image_path: /assets/images/HeFlash_vorb.png
     alt: "placeholder image 1"
     title: "Dynamical He Flashes in Double White Dwarf Binaries"
-    excerpt: In this paper ([Wong & Bildsten 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract)), we investigate the occurrence of double-detonations.
+    excerpt: In this paper ([Wong & Bildsten 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract)), we investigate the occurrence of double-detonations in double white dwarf binaries with a helium white dwarf donor. Unlike previous studies, we account for the impact of the cooling time of the helium white dwarf donor on the mass transfer rate. Our study sheds light on how AM CVn binaries could lead to type Ia supernovae, and our models reasonably explain the hypervelocity star D6-2. 
 ---
+
+## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
+
+One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
+
+{% include feature_row id="feature_row_HeWD" type="left" %}
 
 ## Helium Star Companions (Chandrasekhar Mass Scenario)
 
@@ -38,10 +44,6 @@ In the Chandrasekhar mass scenario, a carbon-oxygen white dwarf accretes materia
 
 {% include feature_row id="feature_row_HeStar2" type="right" %}
 
-## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
 
-One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
-
-{% include feature_row id="feature_row_HeWD" type="left" %}
 
 
