@@ -22,7 +22,12 @@ feature_row_HeStar2:
   - image_path: /assets/images/HeStarHRD.png
     alt: "placeholder image 1"
     title: "Pre-explosion Properties of Helium Star Donors to Thermonuclear Supernovae"
-    excerpt: In this followup paper ([Wong, Schwab & Götberg 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..241W/abstract)), we predicted the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. 
+    excerpt: In this followup paper ([Wong, Schwab & Götberg 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..241W/abstract)), we predicted the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor.
+feature_row_HeWD:
+  - image_path: /assets/images/HeFlash_vorb.png
+    alt: "placeholder image 1"
+    title: "Dynamical He Flashes in Double White Dwarf Binaries"
+    excerpt: In this paper ([Wong & Bildsten 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract)), we investigate the occurrence of double-detonations.
 ---
 
 ## Helium Star Companions (Chandrasekhar Mass Scenario)
@@ -35,7 +40,8 @@ In the Chandrasekhar mass scenario, a carbon-oxygen white dwarf accretes materia
 
 ## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
 
+One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
 
-
+{% include feature_row id="feature_row_HeWD" type="left" %}
 
 
