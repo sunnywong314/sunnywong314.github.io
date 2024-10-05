@@ -30,7 +30,7 @@ feature_row_AMCVN:
     alt: "placeholder image 2"
     title: "AM CVn Binaries"
     excerpt: "AM CVn binaries are ultracompact binaries with orbital periods below about an hour, down to 5 minutes, and gravitational sources detectable by space-based missions like LISA. We model the thermal evolution of both white dwarfs in AM CVn binaries, and predict their observable properties for comparison with eclipsing systems discovered from ZTF. "
-    url: /research/
+    url: /AMCVn/
 feature_row_HVS:
   - image_path: /assets/images/SNcompanion.png
     title: "Hypervelocity Stars"
