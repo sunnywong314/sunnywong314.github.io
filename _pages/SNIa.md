@@ -14,7 +14,7 @@ excerpt: >
   <br />
   <small><a href="https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/">Image courtesy of BJ Fulton/LCO/PTF</a></small>
 feature_row_HeStar1:
-  - image_path: /assets/images/HeStarHRD.png
+  - image_path: /assets/images/HeStarTRho.png
     alt: "placeholder image 1"
     title: "Evolution of Helium Star-White Dwarf Binaries Leading up to Thermonuclear Supernovae"
     excerpt: In this paper ([Wong & Schwab 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...878..100W/abstract)), we investigate the parameter space of white dwarfs stably accreting from non-degenerate, 1-2 solar-mass helium star companions. Previous studies assumed that if the accreting white dwarf reaches Chandrasekhar mass, it will undergo core carbon ignition. We account for the possibility that an **off-center carbon ignition** could occur and convert the white dwarf into an **oxygen-neon white dwarf**. It could then undergo accretion-induced collapse and form a neutron star when reaching Chandrasekhar mass. 
