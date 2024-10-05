@@ -14,11 +14,10 @@ excerpt: >
   <br />
   <small><a href="https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/">Image courtesy of BJ Fulton/LCO/PTF</a></small>
 feature_row_HeStar2:
-  - image_path: /assets/images/HeStarHRD.jpg
-    image_caption: "Wong, Schwab & Götberg"
+  - image_path: /assets/images/HeStarHRD.png
     alt: "placeholder image 1"
-    title: "Type Ia/Iax Supernova Progenitors"
-    excerpt: "In a followup paper, we predict the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. "
+    title: "Pre-explosion Properties of Helium Star Donors to Thermonuclear Supernovae"
+    excerpt: "In this followup paper, we predict the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. "
     url: /research/
 ---
 
