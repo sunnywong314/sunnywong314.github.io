@@ -17,8 +17,7 @@ feature_row_HeStar2:
   - image_path: /assets/images/HeStarHRD.png
     alt: "placeholder image 1"
     title: "Pre-explosion Properties of Helium Star Donors to Thermonuclear Supernovae"
-    excerpt: >
-    In this followup paper, we predicted the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. <br />
+    excerpt: In this followup paper ([Wong, Schwab & Götberg 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..241W/abstract)), we predicted the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. 
 ---
 
 ## Helium Star Companions (Chandrasekhar Mass Scenario)
