@@ -13,12 +13,12 @@ excerpt: >
   Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is.  <br />
   <br />
   <small><a href="https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/">Image courtesy of BJ Fulton/LCO/PTF</a></small>
-feature_row_SNIa:
-  - image_path: /assets/images/sn2011fe.jpg
-    image_caption: "Image courtesy of [BJ Fulton/LCO/PTF](https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/)"
+feature_row_HeStar2:
+  - image_path: /assets/images/HeStarHRD.jpg
+    image_caption: "Wong, Schwab & Götberg"
     alt: "placeholder image 1"
     title: "Type Ia/Iax Supernova Progenitors"
-    excerpt: "I use binary evolution models to predict the parameter space and observable properties of helium star-white dwarf binaries leading to Chandrasekhar mass explosions, and of double white dwarf binaries leading to sub-Chandrasekhar mass explosions."
+    excerpt: "In a followup paper, we predict the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. "
     url: /research/
 ---
 
@@ -28,7 +28,7 @@ In the Chandrasekhar mass scenario, a carbon-oxygen white dwarf accretes materia
 
 In this paper, we investigate the parameter space of white dwarfs stably accreting from non-degenerate, 1-2 solar-mass helium star companions. Previous studies assumed that if the accreting white dwarf reaches Chandrasekhar mass, it will undergo core carbon ignition. We account for the possibility that an **off-center carbon ignition** could occur and convert the white dwarf into an **oxygen-neon white dwarf**. It could then undergo accretion-induced collapse and form a neutron star when reaching Chandrasekhar mass. 
 
-In a followup paper, we predict the **observable properties** of helium star-white dwarf binary systems leading to Chandrasekhar-mass explosions. This is particularly relevant for **type Iax supernovae**, a class of thermonuclear transients that are subluminous and have slower ejecta velocities compared to normal type Ia supernova. Two Iax supernovae have helium emission lines in early spectra, and SN 2012Z had a pre-explosion detection consistent with a helium star progenitor. 
+{% include feature_row id="feature_row_HeStar2" type="right" %}
 
 ## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
 
