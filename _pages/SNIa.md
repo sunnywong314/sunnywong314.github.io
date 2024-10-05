@@ -27,7 +27,12 @@ feature_row_HeWD:
   - image_path: /assets/images/HeFlash_vorb.png
     alt: "placeholder image 1"
     title: "Dynamical He Flashes in Double White Dwarf Binaries"
-    excerpt: In this paper ([Wong & Bildsten 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract)), we investigate the occurrence of double-detonations in double white dwarf binaries with a helium white dwarf donor. Unlike previous studies, we account for the impact of the cooling time of the helium white dwarf donor on the mass transfer rate. Our study sheds light on how AM CVn binaries could lead to type Ia supernovae, and our models reasonably explain the hypervelocity star D6-2. 
+    excerpt: In this paper ([Wong & Bildsten 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract)), we investigate the occurrence of double-detonations in double white dwarf binaries with a helium white dwarf donor. Unlike previous studies, we account for the impact of the cooling time of the helium white dwarf donor on the mass transfer rate. Our study sheds light on how AM CVn binaries could lead to type Ia supernovae, and our models reasonably explain the hypervelocity star D6-2.
+feature_row_TDC:
+  - image_path: /assets/images/MESA_TDC.png
+    alt: "placeholder image 1"
+    title: "Modules for Experiments in Stellar Astrophysics (MESA): Time-dependent Convection, Energy Conservation, Automatic Differentiation, and Infrastructure"
+    excerpt: I was involved with the MESA VI instrument paper ([Jermyn et. al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJS..265...15J/abstract)), where we presented the new time-dependent convection capability. This is particularly important for dynamical nuclear burning where the heating timescale may become comparable or less than the convective eddy turnover timescale. We demonstrated this new capability using dynamical helium flashes on white dwarfs. 
 ---
 
 ## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
@@ -35,6 +40,8 @@ feature_row_HeWD:
 One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
 
 {% include feature_row id="feature_row_HeWD" type="left" %}
+
+{% include feature_row id="feature_row_TDC" type="right" %}
 
 ## Helium Star Companions (Chandrasekhar Mass Scenario)
 
