@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/AMCVN.jpg
 excerpt: >
   <br />
-  Placeholder <br />
+  AM CVn binaries are ultracompact binaries with orbital periods between 5 minutes and about an hour, where a white dwarf accretes helium-rich material from a semi-degenerate companion star. <br />
   <br />
   <small><a href="https://warwick.ac.uk/newsandevents/pressreleases/teardrop_star_reveals">Image courtesy of University of Warwick/Mark Garlick</a></small>
 feature_row_AMCVN:
