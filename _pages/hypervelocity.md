@@ -25,7 +25,7 @@ feature_row_HeStar1:
 One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
 
 <video controls>
-  <source src="/assets/movies/movie_dr_1_zoom.mp4" type="video/mp4">
+  <source src="/assets/movies/movie_dr_1_zoom.mp4" type="video/mp4" size="200">
 </video>
 
 
