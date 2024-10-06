@@ -41,7 +41,7 @@ feature_row_RCB:
     title: "R Corona Borealis Stars"
     image_caption: "Image courtesy of [NOIRLab/AURA/NSF/P. Marenfeld](https://noirlab.edu/public/images/Corona-Borealis/)"
     excerpt: "R Corona Borealis stars are a class of hydrogen-deficient, carbon-rich stars. They are believed to be merger products between a helium white dwarf and a carbon-oxygen white dwarf. They exhibit pulsation periods typically between 30 and 100 days. I use stellar models to investigate their pulsation properties. "
-    url: /research/
+    url: /RCB/
 ---
 
 {% include feature_row id="feature_row_HVS" type="left" %}
