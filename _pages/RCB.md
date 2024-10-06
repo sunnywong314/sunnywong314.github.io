@@ -15,14 +15,14 @@ excerpt: >
   Shortly after the merger, they expand to giant sizes (~100 solar-radii) and undergo helium shell burning for ~10,000 years. <br />
   <br />
   <small><a href="https://noirlab.edu/public/images/Corona-Borealis/">Image courtesy of NOIRLab/AURA/NSF/P. Marenfeld</a></small>
-feature_row_AMCVN:
-  - image_path: /assets/images/AMCVN_MR.png
+feature_row_RCB:
+  - image_path: /assets/images/RCB_pulsation.png
     alt: "placeholder image 1"
-    title: "Mass Transfer and Stellar Evolution of the White Dwarfs in AM CVn Binaries"
-    excerpt: In this paper ([Wong & Bildsten 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..125W/abstract)), we investigate the evolution of both white dwarfs in AM CVn binaries. We account for finite cooling time of the helium white dwarf donor, and show that the **initial entropy** (degree of electron degeneracy) of the donor and its subsequent thermal evolution sets the binary **orbital evolution**. We also show that the accreting white dwarf is reheated initially due to accretion, and cools again later. Observationally the accretors are brighter than expected, which highlights the possibility of additional white dwarf cooling physics.
+    title: "The Asteroseismological Richness of RCB and dLHdC Stars"
+    excerpt: In this paper ([Wong & Bildsten 2024a](https://ui.adsabs.harvard.edu/abs/2024ApJ...962...20W/abstract)), 
 ---
 
-{% include feature_row id="feature_row_AMCVN" type="left" %}
+{% include feature_row id="feature_row_RCB" type="left" %}
 
 
 
