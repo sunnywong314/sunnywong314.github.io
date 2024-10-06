@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/AMCVN.jpg
+  overlay_image: /assets/images/RCB.jpg
 excerpt: >
   <br />
   R Corona Borealis (RCB) stars are a class of hydrogen-deficient, carbon-rich stars. <br />
