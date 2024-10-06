@@ -14,10 +14,10 @@ excerpt: >
   <br />
   <small><a href="https://warwick.ac.uk/newsandevents/pressreleases/teardrop_star_reveals">Image courtesy of University of Warwick/Mark Garlick</a></small>
 feature_row_AMCVN:
-  - image_path: /assets/images/AMCVN.jpg
+  - image_path: /assets/images/AMCVN_MR.png
     alt: "placeholder image 1"
-    title: "Placeholder"
-    excerpt: Placeholder
+    title: "Mass Transfer and Stellar Evolution of the White Dwarfs in AM CVn Binaries"
+    excerpt: In this paper ([Wong & Bildsten 2021](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..125W/abstract)), we 
 ---
 
 {% include feature_row id="feature_row_AMCVN" type="left" %}
