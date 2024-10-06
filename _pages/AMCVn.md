@@ -27,7 +27,12 @@ feature_row_13min:
   - image_path: /assets/images/AMCVN_13min.png
     alt: "placeholder image 1"
     title: "Orbital Decay in an Accreting and Eclipsing 13.7 Minute Orbital Period Binary with a Luminous Donor"
-    excerpt: I was a part of this paper led by Kevin Burdge ([Burdge et. al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...953L...1B/abstract)) which presents  a 13.7 minute binary discovered from the Zwicky Transient Facility, with a white dwarf accretor and a helium-rich donor. Remarkably the donor is much more luminous than a typical AM CVn donor, with a surface temperature of about 16,000 K. We interpreted the donor as a high-entropy helium white dwarf donor. 
+    excerpt: I was a part of this paper led by Kevin Burdge ([Burdge et. al. 2023](https://ui.adsabs.harvard.edu/abs/2023ApJ...953L...1B/abstract)) which presents  a 13.7 minute binary discovered from the Zwicky Transient Facility, with a white dwarf accretor and a helium-rich donor. Remarkably the donor is much more luminous than a typical AM CVn donor, with a surface temperature of about 16,000 K. We interpreted the donor as a high-entropy helium white dwarf donor.
+feature_row_outburst:
+  - image_path: /assets/images/AMCVN_outburst.png
+    alt: "placeholder image 1"
+    title: "An Outburst by AM CVn Binary SDSS J113732.32+405458.3"
+    excerpt: In this research note ([Wong et. al. 2021](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5....3W/abstract)), we present the discovery of an outburst by a 60-minute AM CVn system from ZTF data, likely due to an accretion disk instability. It exhibited an exceptionally long (>300 day) outburst and is the long period AM CVn binary to undergo an outburst. 
 ---
 
 {% include feature_row id="feature_row_AMCVN" type="left" %}
@@ -36,7 +41,7 @@ feature_row_13min:
 
 {% include feature_row id="feature_row_13min" type="left" %}
 
-
+{% include feature_row id="feature_row_outburst" type="right" %}
 
 
 
