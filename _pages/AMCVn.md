@@ -34,7 +34,7 @@ feature_row_13min:
 
 {% include feature_row id="feature_row_ZTF" type="right" %}
 
-{% include feature_row id="feature_row_13min" type="right" %}
+{% include feature_row id="feature_row_13min" type="left" %}
 
 
 
