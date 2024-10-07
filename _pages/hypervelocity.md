@@ -14,27 +14,31 @@ excerpt: >
   <br />
   To date, 7 such hypervelocity stars have been discovered by the Gaia mission.  <br />
   <br />
-feature_row_HeStar1:
-  - image_path: /assets/images/HeStarTRho.png
-    alt: "placeholder image 1"
-    title: "Evolution of Helium Star-White Dwarf Binaries Leading up to Thermonuclear Supernovae"
-    excerpt: In this paper ([Wong & Schwab 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...878..100W/abstract)), 
+  They all show inflated radii (~0.1 solar-radii), and surface pollution by heavy elements. <br />
+  <br />
+  I combine 3D hydrodynamical simulations and 1D stellar modeling to understand how the hypervelocity stars are formed. <br />
+  <br />
+
 ---
 
 ## Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae
 
-In this paper [Wong, White & Bildsten](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract), we model the interaction between type Ia supernova ejecta and a low-mass helium white dwarf/ helium star companion. 
+In this paper [Wong, White & Bildsten 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract), we model the interaction between type Ia supernova ejecta and a low-mass helium white dwarf/ helium star companion. 
 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4){: .align-center}
 
-Here is a zoom-in version. 
+Here is a zoom-in version. A strong shock propagates through the center of the donor white dwarf, and deposits entropy there. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1_zoom.mp4){: .align-center}
 
-After 
+Due to the entropy deposition, the donor white dwarf expands to 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_2.mp4){: .align-center}
+
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_3.mp4){: .align-center}
 
 
 
