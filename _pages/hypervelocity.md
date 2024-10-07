@@ -20,8 +20,11 @@ excerpt: >
 
 ## Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae
 
-In this paper [Wong, White & Bildsten 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract), we model the interaction between type Ia supernova ejecta and a low-mass helium white dwarf/ helium star companion. 
+In this paper [Wong, White & Bildsten 2024](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract), we model the interaction between type Ia supernova ejecta and a low-mass helium white dwarf/ helium star companion. We find that about 0.01 - 0.02 solar-masses of helium is swept up along with the ejecta. As a result of entropy deposition, the donor expands to ~0.1 - 0.2 solar-radii and remains luminous for about 10,000 years. The post-explosion properties of our helium white dwarf donor agrees reasonably with one of the hypervelocity stars, D6-2. 
 
+Below are movies from our 3D hydrodynamical simulations of a low-mass helium white dwarf donor. The left panel shows fraction of material belonging to the donor (yellow) and to the ejecta (blue). The right panel shows density. 
+
+As the ejecta sweeps around the donor white dwarf, a low-density cavity is created behind the donor. Some helium is swept up into the ejecta. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4){: .align-center}
 
@@ -29,11 +32,11 @@ Here is a zoom-in version. A strong shock propagates through the center of the d
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1_zoom.mp4){: .align-center}
 
-Due to the entropy deposition, the donor white dwarf expands to 
+Due to the entropy deposition, the donor white dwarf expands to ~0.1 solar radii. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_2.mp4){: .align-center}
 
-
+The donor white dwarf undergoes a series of oscillations as it comes back to hydrostatic equilibrium. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_3.mp4){: .align-center}
 
