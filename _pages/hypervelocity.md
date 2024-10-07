@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/movies/movie_dr_1_zoom.gif
+  overlay_image: /assets/movies/movie_dr_1_zoom.mp4
 excerpt: >
   <br />
   Type Ia supernovae originate from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion. <br />
