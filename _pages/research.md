@@ -35,7 +35,7 @@ feature_row_HVS:
   - image_path: /assets/images/SNcompanion.png
     title: "Hypervelocity Stars"
     excerpt: "Their high velocities (1000-2000 km/s), metal-rich surfaces, and inflated radii support the notion that they are the surviving white dwarf companion stars after a type Ia supernova. I use 3D hydrodynamical models to understand how they were shock-heated by supernova ejecta, and 1D stellar models to model their subsequent evolution."
-    url: /research/
+    url: /hypervelocity/
 feature_row_RCB:
   - image_path: /assets/images/RCB.jpg
     title: "R Corona Borealis Stars"
