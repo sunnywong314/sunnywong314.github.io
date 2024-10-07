@@ -14,11 +14,8 @@ excerpt: >
   <br />
   To date, 7 such hypervelocity stars have been discovered by the Gaia mission.  <br />
   <br />
-  They all show inflated radii (~0.1 solar-radii), and surface pollution by heavy elements. <br />
   <br />
-  I combine 3D hydrodynamical simulations and 1D stellar modeling to understand how the hypervelocity stars are formed. <br />
-  <br />
-
+  
 ---
 
 ## Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae
