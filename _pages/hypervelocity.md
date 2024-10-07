@@ -4,32 +4,39 @@ title: "Hypervelocity Stars"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/movies/movie_dr_1_zoom.mp4
+  overlay_filter: "0.6"
+  overlay_image: /assets/movies/movie_d.mp4
 excerpt: >
   <br />
-  Type Ia supernovae originate from thermonuclear explosions of carbon-oxygen white dwarfs, aided by mass transfer from a binary companion. <br />
+  Double white dwarf binaries begin mass transfer at orbital periods as short as a few minutes. <br />
   <br />
-  Nevertheless, it has long been debated how the thermonuclear explosion happens, and what the nature of the binary companion is.  <br />
+  If the accretor white dwarf explodes, the surviving donor white dwarf is flung off at roughly its orbital velocity, 1,000-2,000 km/s, and becomes one of the fastest stars in the Galaxy. <br />
   <br />
-  <small><a href="https://lco.global/news/lco-scientists-use-supernovae-to-make-a-new-measurement-of-the-hubble-constant/">Image courtesy of BJ Fulton/LCO/PTF</a></small>
+  To date, 7 such hypervelocity stars have been discovered by the Gaia mission.  <br />
+  <br />
 feature_row_HeStar1:
   - image_path: /assets/images/HeStarTRho.png
     alt: "placeholder image 1"
     title: "Evolution of Helium Star-White Dwarf Binaries Leading up to Thermonuclear Supernovae"
-    excerpt: In this paper ([Wong & Schwab 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...878..100W/abstract)), we investigate the parameter space of white dwarfs stably accreting from non-degenerate, 1-2 solar-mass helium star companions. Previous studies assumed that if the accreting white dwarf reaches Chandrasekhar mass, it will undergo core carbon ignition. We account for the possibility that an **off-center carbon ignition** could occur and convert the white dwarf into an **oxygen-neon white dwarf**. It could then undergo accretion-induced collapse and form a neutron star when reaching Chandrasekhar mass.
+    excerpt: In this paper ([Wong & Schwab 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...878..100W/abstract)), 
 ---
 
-## Helium White Dwarf Companions (sub-Chandrasekhar Mass Scenario)
+## Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae
 
-One popular sub-Chandrasekhar mass scenario is the double-detonation mechanism, where a surface helium shell detonation leads to core carbon detonation. 
+In this paper [Wong, White & Bildsten](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract), we model the interaction between type Ia supernova ejecta and a low-mass helium white dwarf/ helium star companion. 
+
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4){: .align-center}
+
+Here is a zoom-in version. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1_zoom.mp4){: .align-center}
 
+After 
 
-<video controls>
-  <source src="/assets/movies/movie_dr_1_zoom.mp4" type="video/mp4" size="200">
-</video>
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_2.mp4){: .align-center}
+
+
 
 
 
