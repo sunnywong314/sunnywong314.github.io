@@ -40,8 +40,7 @@ The donor white dwarf undergoes a series of oscillations as it comes back to hyd
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_3.mp4){: .align-center}
 
-
-
+You can find more movies from our repository on [Zenodo](https://doi.org/10.5281/zenodo.12850558). 
 
 
 
