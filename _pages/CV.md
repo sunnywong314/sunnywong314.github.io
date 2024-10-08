@@ -23,7 +23,7 @@ B.S. in Physics (Astrophysics), University of California, Santa Cruz
 
 [hello](/assets/CV_Wong.pdf)
 
-<object data="https://sunnywong314.github.io/assets/CV_Wong.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 
 
 
