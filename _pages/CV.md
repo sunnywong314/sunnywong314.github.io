@@ -7,8 +7,6 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/SNcompanion.png
 excerpt: >
-  <br />
-  placeholder
 ---
 
 # Education
@@ -21,9 +19,12 @@ Ph.D. in Physics, University of California, Santa Barbara
 
 B.S. in Physics (Astrophysics), University of California, Santa Cruz
 
-[hello](/assets/CV_Wong.pdf)
+# Selected publications
 
-<object data="https://sunnywong314.github.io/assets/CV_Wong.pdf" width="1000" height="1000" /></object>
+* Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae (2024) [ads](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract) [arxiv](https://arxiv.org/abs/2408.00125)
+
+[Click here to view my curriculum vitae (CV)](/assets/CV_Wong.pdf)
+
 
 
 
