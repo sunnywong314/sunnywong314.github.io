@@ -9,21 +9,31 @@ header:
 excerpt: >
 ---
 
+[Click here to view my curriculum vitae (CV)](/assets/CV_Wong.pdf)
+
 # Education
 
 ## 2019 - present
-
 Ph.D. in Physics, University of California, Santa Barbara
 
 ## 2015 - 2019
-
 B.S. in Physics (Astrophysics), University of California, Santa Cruz
 
 # Selected publications
 
-* Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae (2024) [ads](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract) [arxiv](https://arxiv.org/abs/2408.00125)
+* Shocking and Mass Loss of Compact Donor Stars in Type Ia Supernovae (2024) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...65W/abstract) [arxiv](https://arxiv.org/abs/2408.00125)
 
-[Click here to view my curriculum vitae (CV)](/assets/CV_Wong.pdf)
+* The Asteroseismological Richness of RCB and dLHdC Stars (2024) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...962...20W/abstract) [arxiv](https://arxiv.org/abs/2311.10158)
+
+* Dynamical He Flashes in Double White Dwarf Binaries (2023) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...951...28W/abstract) [arxiv](https://arxiv.org/abs/2305.05695)
+
+* Mass Transfer and Stellar Evolution of the White Dwarfs in AM CVn Binaries (2021) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..125W/abstract) [arxiv](https://arxiv.org/abs/2109.13403)
+
+* Pre-explosion Properties of Helium Star Donors to Thermonuclear Supernovae (2021) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..241W/abstract) [arxiv](https://arxiv.org/abs/2109.14817)
+
+* Evolution of Helium Star-White Dwarf Binaries Leading up to Thermonuclear Supernovae (2019) [NASA ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...878..100W/abstract) [arxiv](https://arxiv.org/abs/1901.04512)
+
+
 
 
 
