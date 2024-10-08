@@ -32,22 +32,37 @@ As the ejecta sweeps around the donor white dwarf, a low-density cavity is creat
            <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4" type="video/mp4" />
        </video>
     </div>
-<figcaption>A nice movie format</figcaption>
 </figure>
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4){: .align-center}
 
 Here is a zoom-in version. A strong shock propagates through the center of the donor white dwarf, and deposits entropy there. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1_zoom.mp4){: .align-center}
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1_zoom.mp4" type="video/mp4" />
+       </video>
+    </div>
+</figure>
 
 Due to the entropy deposition, the donor white dwarf expands to ~0.1 solar radii. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_2.mp4){: .align-center}
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_2.mp4" type="video/mp4" />
+       </video>
+    </div>
+</figure>
 
 The donor white dwarf undergoes a series of oscillations as it comes back to hydrostatic equilibrium. 
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_3.mp4){: .align-center}
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_3.mp4" type="video/mp4" />
+       </video>
+    </div>
+</figure>
 
 You can find more movies from our repository on [Zenodo](https://doi.org/10.5281/zenodo.12850558). 
 
