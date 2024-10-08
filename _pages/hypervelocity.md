@@ -26,6 +26,15 @@ Below are movies from our 3D hydrodynamical simulations of a low-mass helium whi
 
 As the ejecta sweeps around the donor white dwarf, a low-density cavity is created behind the donor. Some helium is swept up into the ejecta. 
 
+<figure class="large">
+    <div class="myvideo">
+       <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4" type="video/mp4" />
+       </video>
+    </div>
+<figcaption>A nice movie format</figcaption>
+</figure>
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/movies/movie_dr_1.mp4){: .align-center}
 
 Here is a zoom-in version. A strong shock propagates through the center of the donor white dwarf, and deposits entropy there. 
