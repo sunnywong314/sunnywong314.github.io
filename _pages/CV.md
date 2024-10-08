@@ -23,7 +23,7 @@ B.S. in Physics (Astrophysics), University of California, Santa Cruz
 
 [hello](/assets/CV_Wong.pdf)
 
-<object data="[{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf](https://sunnywong314.github.io/assets/CV_Wong.pdf)" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://sunnywong314.github.io/assets/CV_Wong.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 
