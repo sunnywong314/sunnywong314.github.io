@@ -15,7 +15,7 @@ placeholder
 
 [hello](/assets/CV_Wong.pdf)
 
-<embed src="https://sunnywong314.github.io/assets/CV_Wong.pdf" type="application/pdf" />
+
 
 
 
