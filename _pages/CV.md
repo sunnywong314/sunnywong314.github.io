@@ -15,6 +15,8 @@ placeholder
 
 [hello](/assets/CV_Wong.pdf)
 
+<embed src="/assets/CV_Wong.pdf" type="application/pdf" />
+
 
 
 
