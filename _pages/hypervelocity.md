@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/movies/movie_d.mp4
+  overlay_image: /assets/images/SNcompanion.png
 excerpt: >
   <br />
   Double white dwarf binaries begin mass transfer at orbital periods as short as a few minutes. <br />
