@@ -17,8 +17,6 @@ excerpt: >
   <br />
 ---
 
-[Click here to view my curriculum vitae (CV)](/assets/CV_Wong.pdf)
-
 ## Education
 
 * Ph.D. in Physics, University of California, Santa Barbara, 2019 - present
