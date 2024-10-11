@@ -26,10 +26,14 @@ gallery:
     image_path: /assets/images/DSC_5348.jpg
     alt: "placeholder image 3"
     title: ""
-  - url: /assets/images/DSC_5348.jpg
-    image_path: /assets/images/DSC_5348.jpg
+  - url: /assets/images/DSC_5244.jpg
+    image_path: /assets/images/DSC_5244.jpg
     alt: "placeholder image 3"
     title: ""
+  - url: /assets/images/DSC_4830.jpg
+    image_path: /assets/images/DSC_4830.jpg
+    alt: "placeholder image 3"
+    title: "Comet NEOWISE in 2020. "
 ---
 
 Hello, I am Sunny! I am currently a 6th year PhD student at the University of California, Santa Barbara, advised by [Prof. Lars Bildsten](https://www.kitp.ucsb.edu/bildsten). My research intersects 1D stellar evolution and 3D hydrodynamical models to understand how white dwarfs in binary systems interact with their companion stars, and the stellar objects they form. 
