@@ -4,7 +4,7 @@ title: "About Me"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/DSC_5581.jpg
 excerpt: >
   <br />
@@ -17,22 +17,26 @@ gallery:
   - url: /assets/images/DSC_4986.jpg
     image_path: /assets/images/DSC_4986.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Taken during sunrise right after a total lunar eclipse."
   - url: /assets/images/DSC_5581.jpg
     image_path: /assets/images/DSC_5581.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Probably my favorite sunset picture. At Campus Point at UCSB you get a great view of both the lagoon and the ocean. "
   - url: /assets/images/DSC_5348.jpg
     image_path: /assets/images/DSC_5348.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: ""
+  - url: /assets/images/DSC_5348.jpg
+    image_path: /assets/images/DSC_5348.jpg
+    alt: "placeholder image 3"
+    title: ""
 ---
 
 Hello, I am Sunny! I am currently a 6th year PhD student at the University of California, Santa Barbara, advised by [Prof. Lars Bildsten](https://www.kitp.ucsb.edu/bildsten). My research intersects 1D stellar evolution and 3D hydrodynamical models to understand how white dwarfs in binary systems interact with their companion stars, and the stellar objects they form. 
 
 In my free time, I enjoy cycling, taking a walk on beaches, and photography. I recently earned my scuba diving certification and started learning German. 
 
-{% include gallery caption="Some of my favorite photos taken during my sunset walks around Campus Point at UCSB." %}
+{% include gallery caption="Some of my favorite photos taken during my walks around Campus Point at UCSB." %}
 
 <!--![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/DSC_.jpg){: .align-center}-->
 
