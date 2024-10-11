@@ -12,6 +12,9 @@ excerpt: >
   <br />
   <br />
   <br />
+actions:
+  - label: "Download Full CV"
+    url: "https://sunnywong314.github.io/assets/CV_Wong.pdf"
 ---
 
 [Click here to view my curriculum vitae (CV)](/assets/CV_Wong.pdf)
