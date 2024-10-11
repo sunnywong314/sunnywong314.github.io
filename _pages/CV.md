@@ -14,8 +14,7 @@ excerpt: >
 ## Education
 
 * Ph.D. in Physics, University of California, Santa Barbara, 2019 - present
-  Advisor: Lars Bildsten
-  
+ - Advisor: Lars Bildsten
 * B.S. in Physics (Astrophysics), University of California, Santa Cruz, 2015 - 2019
 
 
