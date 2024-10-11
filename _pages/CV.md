@@ -4,8 +4,8 @@ title: "CV"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/SNcompanion.png
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/DSC_5348.jpg
 excerpt: >
 ---
 
