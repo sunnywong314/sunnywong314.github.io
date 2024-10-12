@@ -36,10 +36,9 @@ gallery:
     title: "Comet NEOWISE in 2020. "
 feature_row_SN2014J:
   - image_path: /assets/images/2014J.jpg
-    title: "SN2014J"
     image_caption: "Taken with Nikon D7100 with a Celestron C8 telescope."
     alt: "placeholder image 1"
-    excerpt: "The year 2014 (my 11th grade) was amazing for me. The type Ia supernova SN2014J happened in the Cigar Galaxy, which was the nearest type Ia supernova for decades. I was fortunate enough to observe it with my friends through an 8-inch telescope, both through an eyepiece and through a DSLR camera. It was perhaps fateful that I would eventually study how type Ia supernovae occur. "
+    excerpt: "<big>The year 2014 (my 11th grade) was amazing for me. The type Ia supernova SN2014J happened in the Cigar Galaxy, which was the nearest type Ia supernova for decades. I was fortunate enough to observe it with my friends through an 8-inch telescope, both through an eyepiece and through a DSLR camera. It was perhaps fateful that I would eventually study how type Ia supernovae occur. "
 ---
 
 Hello, I am Sunny! I am currently a 6th year PhD student at the University of California, Santa Barbara, advised by [Prof. Lars Bildsten](https://www.kitp.ucsb.edu/bildsten). My research intersects 1D stellar evolution and 3D hydrodynamical models to understand how white dwarfs in binary systems interact with their companion stars, and the stellar objects they form. 
