@@ -8,3 +8,5 @@ main:
     url: /research/
   - title: "Latest Research"
     url: /hypervelocity/
+  - title: "Code"
+    url: /code/
