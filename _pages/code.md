@@ -4,7 +4,7 @@ title: "Code"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/DSC_5244.jpg
 excerpt: >
   <br />
