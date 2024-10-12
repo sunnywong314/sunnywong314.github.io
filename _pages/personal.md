@@ -40,7 +40,7 @@ Hello, I am Sunny! I am currently a 6th year PhD student at the University of Ca
 
 In my free time, I enjoy cycling, taking a walk on beaches, and photography. I recently earned my scuba diving certification and started learning German. 
 
-{% include gallery caption="Some of my favorite photos taken during my walks around Campus Point at UCSB." %}
+{% include gallery caption="Some of my favorite photos taken during my walks around [Campus Point](https://www.campuscalendar.ucsb.edu/campus_point_711) at UCSB." %}
 
 <!--![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/DSC_.jpg){: .align-center}-->
 
