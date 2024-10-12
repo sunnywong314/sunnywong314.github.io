@@ -36,7 +36,7 @@ gallery:
     title: "Comet NEOWISE in 2020. "
 feature_row_SN2014J:
   - image_path: /assets/images/2014J.jpg
-    image_caption: "Taken with Nikon D7100 with a Celestron C8 telescope."
+    image_caption: "Taken with Nikon D7100 and a Celestron C8 telescope."
     alt: "placeholder image 1"
     excerpt: "<big>The year 2014 (my 11th grade) was amazing for me. The type Ia supernova SN2014J happened in the Cigar Galaxy, which was the nearest type Ia supernova for decades. I was fortunate enough to observe it with my friends through an 8-inch telescope, both through an eyepiece and through a DSLR camera. It was perhaps fateful that I would eventually study how type Ia supernovae occur. "
 ---
